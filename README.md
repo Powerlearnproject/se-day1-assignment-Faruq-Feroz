@@ -10,21 +10,21 @@ Software Engineering Day1 Assignment
 
 -Importance in the Technology Industry:
 
-    🟢 Quality & Reliability: Ensures dependable software and minimizes errors.
-    🔵 Manages Complexity: Breaks down large projects into manageable parts.
-    🟠 Increases Efficiency: Streamlines workflows, saving time and resources.
-    🟣 Supports Scalability: Allows software to adapt and grow with demand.
+    Quality & Reliability: Ensures dependable software and minimizes errors.
+    Manages Complexity: Breaks down large projects into manageable parts.
+    Increases Efficiency: Streamlines workflows, saving time and resources.
+    Supports Scalability: Allows software to adapt and grow with demand.
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Birth of Structured Programming (1960s)
-- Introduced disciplined code organization and modular design, which improved readability and maintenance, setting a foundation for all modern programming practices.
+Introduced disciplined code organization and modular design, which improved readability and maintenance, setting a foundation for all modern programming practices.
 
 The Advent of Object-Oriented Programming (1970s-1980s)
-- Brought a new paradigm by organizing code into objects, which represents real-world entities, making code more reusable, scalable, and aligned with user requirements.
+Brought a new paradigm by organizing code into objects, which represents real-world entities, making code more reusable, scalable, and aligned with user requirements.
 
 The Rise of Agile Methodologies (2000s)
-- Shifted focus from traditional, rigid development to flexible, iterative processes, enabling rapid development, user feedback integration, and continuous improvement throughout the project lifecycle.
+Shifted focus from traditional, rigid development to flexible, iterative processes, enabling rapid development, user feedback integration, and continuous improvement throughout the project lifecycle.
 
 
 3.List and briefly explain the phases of the Software Development Life Cycle.
@@ -191,7 +191,7 @@ Acceptance Testing:
 
 1.Define prompt engineering and discuss its importance in interacting with AI models.
 
-    What It Is: Prompt engineering is the practice of designing and crafting effective input prompts that guide AI models, like ChatGPT, to produce the desired output. It involves choosing the right words, structure, and context to communicate clearly with the AI.
+   Prompt engineering is the practice of designing and crafting effective input prompts that guide AI models, like ChatGPT, to produce the desired output. It involves choosing the right words, structure, and context to communicate clearly with the AI.
 
 Importance in Interacting with AI Models:
 
